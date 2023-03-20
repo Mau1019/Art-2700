@@ -22,7 +22,8 @@
                     <li>dark caves</li>
                 </ul>
             <figure>    
-                <img src="BatImages/Batman_2.jpeg" alt="The batman standing"></a>
+                <img src="BatImages/Batman_2.jpeg"> 
+                <figcaption> The batman standing"></figcaption>
             </figure>    
             </section>
             </main>
