@@ -3,13 +3,28 @@
     <head>
         <meta charset="utf-8">
         <title>THE BATFAN</title>
+    </head>    
           <body>
             <main>
               <h1>THE BATMAN</h1>
+            <section>
               <h2>Photos Of the Batman</h2>
               <!--TODO: Add link to batman photos-->
-              <p>See more Batman Photos in our Gallery</p>
-              <img src="BatImages/Batman_1.webp" alt="The Batman">
+              <p>See more <a target="_blank" href="https://www.dc.com/characters/batman"> Batman Photos</a> in our Gallery</p>
+              <a target='_blank' href="https://www.dc.com/characters/batman"> <img src="BatImages/Batman_1.webp" alt="The Batman"></a>
+            </section>
+            <section>
+                <h2>About Batmen</h2>
+                <h3>Things Batmen Enjoy:</h3>
+                <ul>
+                    <li>Justice</li>
+                    <li>crime fighting</li>
+                    <li>dark caves</li>
+                </ul>
+            <figure>    
+                <img src="BatImages/Batman_2.jpeg" alt="The batman standing"></a>
+            </figure>    
+            </section>
             </main>
           </body>
 </html>
